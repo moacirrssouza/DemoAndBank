@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AndBank.ConsoleApp\\AndBank.ConsoleApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AndBank.Api\\AndBank.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

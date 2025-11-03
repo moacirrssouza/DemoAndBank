@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="AndBank.Api/AndBank.Api.csproj" />
+    <Project Path="AndBank.Application/AndBank.Application.csproj" />
+    <Project Path="AndBank.ConsoleApp/AndBank.ConsoleApp.csproj" />
+    <Project Path="AndBank.Domain/AndBank.Domain.csproj" />
+    <Project Path="AndBank.Infrastructure/AndBank.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+</Solution>
