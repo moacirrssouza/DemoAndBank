@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="../AndBank.Test/AndBank.Test.csproj" Id="0de9395b-0f15-4020-81cc-7017443823ed" />
     <Project Path="AndBank.Api/AndBank.Api.csproj" />
     <Project Path="AndBank.Application/AndBank.Application.csproj" />
     <Project Path="AndBank.ConsoleApp/AndBank.ConsoleApp.csproj" />

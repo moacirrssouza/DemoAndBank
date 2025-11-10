@@ -3,7 +3,7 @@ version: '3.8'
 services:
   postgres:
     container_name: postgres_db
-    image: postgres:latest
+    image: postgres:15
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: dev#123456

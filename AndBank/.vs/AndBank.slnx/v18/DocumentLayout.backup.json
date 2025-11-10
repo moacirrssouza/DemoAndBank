@@ -1,12 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workspace\\DemoAndBank\\AndBank\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Projetos\\DemoAndBank\\AndBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE9395B-0F15-4020-81CC-7017443823ED}|..\\AndBank.Test\\AndBank.Test.csproj|c:\\projetos\\demoandbank\\andbank.test\\repositories\\positionrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PositionRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\DemoAndBank\\AndBank.Test\\Repositories\\PositionRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\AndBank.Test\\Repositories\\PositionRepositoryTests.cs",
+              "ToolTip": "C:\\Projetos\\DemoAndBank\\AndBank.Test\\Repositories\\PositionRepositoryTests.cs",
+              "RelativeToolTip": "..\\AndBank.Test\\Repositories\\PositionRepositoryTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:47:44.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
